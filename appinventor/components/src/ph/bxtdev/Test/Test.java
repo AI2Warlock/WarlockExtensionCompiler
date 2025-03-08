@@ -1,4 +1,4 @@
-package ph.bxtdev.DarkComponents;
+package ph.bxtdev.Test;
 
 import android.app.Activity;
 import android.content.Context;
