@@ -24,4 +24,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: aix
-        path: "appinventor/components/build/*.aix"
+        path: "appinventor/components/build/extensions/*.aix"
