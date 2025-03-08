@@ -19,7 +19,7 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
     - name: Build with Ant
-      run: ant extensions -buildfile build.xml
+      run: ant extensions -buildfile appinventor/components/build.xml
     - name: Upload Any Build Artifact (.aix files)
       uses: actions/upload-artifact@v4
       with:
