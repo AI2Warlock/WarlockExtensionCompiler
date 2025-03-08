@@ -7,7 +7,8 @@ import com.google.appinventor.components.common.ComponentCategory;
 import com.google.appinventor.components.runtime.*;
 
 @DesignerComponent(
-        versionName = "1.1",
+        version = 1,
+        versionName = "1",
         description = "Add 1 + 1",
         category = ComponentCategory.EXTENSION,
         nonVisible = true,
